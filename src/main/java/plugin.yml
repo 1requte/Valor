@@ -1,0 +1,9 @@
+name: Valor
+main: net.xfoondom.valor.ValorPlugin
+version: 1.0
+description: Valor implements a unique system of PvP.
+depend: [WorldGuard]
+api-version: 1.13
+commands:
+    pvp:
+        description: Displays a help message.
